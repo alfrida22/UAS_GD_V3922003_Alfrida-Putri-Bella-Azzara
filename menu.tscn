@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://bolmp826xbnxf"]
 
 [ext_resource type="Texture2D" uid="uid://kb1yqyd2ik5n" path="res://png/BG/download (2).jpeg" id="1_nbut5"]
-[ext_resource type="FontFile" uid="uid://c60eixeb3vs2x" path="res://Font/frozen/Ice kingdom - Bold - Por Kustren.otf" id="2_ekuuo"]
+[ext_resource type="FontFile" uid="uid://c60eixeb3vs2x" path="res://Asset_game/Asset_game/Font/frozen/Ice kingdom - Bold - Por Kustren.otf" id="2_ekuuo"]
 [ext_resource type="Script" path="res://Button.gd" id="3_ky23d"]
 [ext_resource type="AudioStream" uid="uid://brkxd84rgfh2n" path="res://Assets/Sound/9E8C7YR-retro-game-game-over.mp3" id="4_rkhik"]
 
